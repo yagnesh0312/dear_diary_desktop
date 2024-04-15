@@ -4,6 +4,8 @@
     <br> 
 </p>
 
+## Example
+![example](https://github.com/yagnesh0312/dear_diary_desktop/blob/master/lib/image.jpg?raw=true)
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 ### Powershell
